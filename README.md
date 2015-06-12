@@ -1,2 +1,1 @@
-# eecs_highschool
-Highschool Page
+The static page of EECS high school section
